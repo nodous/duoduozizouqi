@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "棋子详细的信息",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 20,
+  "usingComponents": {}
+}

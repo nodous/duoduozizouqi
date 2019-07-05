@@ -1,0 +1,67 @@
+
+page {
+	background: #f9f9f9;
+}
+.title {
+	color: #000000;
+	font-weight: 600;
+	height: 70rpx;
+	text-align: left;
+	font-size: 36rpx;
+	padding-top: 20rpx;
+}
+.rateImg {
+}
+.personNum {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 8rpx;
+	color: silver;
+}
+.userImg {
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+	width: 46rpx;
+	height: 46rpx;
+}
+.bgImg {
+	width: 100%;
+	height:251rpx;
+}
+.text {
+	margin: 15rpx 10rpx;
+	padding: 0 20rpx;
+	/* background-color: #ebebeb; */
+	height: 70rpx;
+	line-height: 70rpx;
+	text-align: center;
+	color: #777;
+	font-size: 26rpx;
+}
+.text1 {
+	margin: 15rpx 10rpx;
+	padding: 0 20rpx;
+	text-align: left;
+	color: #777;
+	font-weight: 600;
+	font-size: 36rpx;
+}
+.author {
+	margin: 15rpx 10rpx;
+	padding: 0 20rpx;
+	text-align: left;
+	color: #777;
+	font-size: 28rpx;
+}
+.content {
+	padding: 40rpx 0;
+}
+.contentList{
+	width:700rpx;
+	margin-left: 25rpx;
+	background: white;
+	margin-bottom: 20rpx;
+	-webkit-border-radius: 20rpx;
+	        border-radius: 20rpx;
+}
+

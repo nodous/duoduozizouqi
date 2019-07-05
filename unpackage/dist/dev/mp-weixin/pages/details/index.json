@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "刺魂者",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "uni-grid": "/components/uni-grid/uni-grid"
+  }
+}

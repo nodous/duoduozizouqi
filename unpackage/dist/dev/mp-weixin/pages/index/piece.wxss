@@ -1,0 +1,72 @@
+
+page {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-sizing: border-box;
+		        box-sizing: border-box;
+		background-color: #fff
+}
+view {
+		font-size: 28rpx;
+		line-height: inherit
+}
+.page {
+		position: relative;
+}
+.logoImg {
+		width:100%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+}
+.image-view1 {
+    height: 147rpx;
+    width: 147rpx;
+	margin:8rpx 0;
+}
+.uni-product-image1 {
+    height: 147rpx;
+    width: 147rpx;
+}
+.uni-product-image2 {
+    height: 60rpx;
+    width: 60rpx;
+	/* position: re;
+	left: 0;
+	top: 0; */
+}
+.uni-product-title1 {
+    width: 147rpx;
+    word-break: break-all;
+    display: -webkit-box;
+    overflow: hidden;
+	line-height:1.5;
+    -o-text-overflow: ellipsis;
+       text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+.uni-product-price {
+	margin-top:10rpx;
+    font-size: 28rpx;
+	line-height:1.5;
+    position: relative;
+}
+
+

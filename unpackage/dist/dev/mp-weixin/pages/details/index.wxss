@@ -1,0 +1,40 @@
+
+image,
+swiper,
+.img-view {
+	width: 750rpx;
+	height: 500rpx;
+}
+.page-section-title{
+	margin-top: 50rpx;
+}
+.text {
+	margin-right: 10rpx;
+	/* padding: 0 10upx; */
+	background-color: #ffd721;
+	height: 70rpx;
+	line-height: 70rpx;
+	text-align: center;
+	color: #777;
+	font-size: 26rpx;
+}
+.text1 {
+	margin-right: 10rpx;
+	/* padding: 0 10upx; */
+	background-color: #61e2db;
+	height: 70rpx;
+	line-height: 70rpx;
+	text-align: center;
+	color: #777;
+	font-size: 26rpx;
+}
+.text3 {
+	margin-right: 10rpx;
+	/* padding: 0 10upx; */
+	background-color: #ffd721;
+	text-align: left;
+	overflow: hidden;
+	color: #777;
+	font-size: 26rpx;
+}
+
